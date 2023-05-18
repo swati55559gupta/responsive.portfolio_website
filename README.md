@@ -1,2 +1,2 @@
-# responsive.portfolio_website
-I developed this portfolio website using Html, Css  . To see the website visit https://file:///C:/Users/Swati%20Gupta/OneDrive/Desktop/Responsive_Portfolio_10-05-23-main/resposive.portfolio_website/index.html/
+# Responsive_Portfolio_10-05-23
+Follow this beginner's guide to create a responsive portfolio website using HTML and CSS. With no prior coding experience required, this tutorial will teach you how to create a website that looks great on any device.
