@@ -30,7 +30,7 @@ portfolio/
 
 ## Author
 
-Swati Gupta
+@Swati Gupta
 
 ## Future Improvements
 
